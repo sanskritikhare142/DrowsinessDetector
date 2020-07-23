@@ -5,4 +5,4 @@ In this project, I used OpenCV for gathering the images from webcam and fed them
  Step 2 – Detect the face in the image and create a Region of Interest .  
  Step 3 – Detect the eyes from ROI and feed it to the classifier.
  Step 4 – Classifier will categorize whether eyes are open or closed.
- Step 5 – Calculate score to check whether the person is drowsy.
+ Step 5 – Calculate score to check whether the person is drowsy or not.
